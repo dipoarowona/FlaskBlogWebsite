@@ -1,6 +1,11 @@
 # Personal file with sensitive data 
 config.py
 
+#Extra customizations for flask website 
+.DS_Store
+.project
+*.pyc
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
